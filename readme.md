@@ -2,9 +2,9 @@
 
 ![alt text](https://download.disguise.one/media/6921/unity.png)
 
-For more info please refer to our [RenderStream and Unity Help page](https://help.disguise.one/Content/Configuring/Render-engines/RenderStream-Unity.htm)
+For more info please refer to our [RenderStream and Unity Help page](https://help.disguise.one/workflows/renderstream/unity/renderstream-unity)
 
-A **Demo Unity Project** can be found on the [disguise Resources page](https://download.disguise.one/#resources)
+# A **Demo Unity Project** can be found on the [disguise Resources page](https://download.disguise.one/#resources)
 
 ## Importing the RenderStream Unity Plugin
 
